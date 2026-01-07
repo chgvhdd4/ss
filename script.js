@@ -5,8 +5,9 @@ const videos = [
   {
     id: 1,
     title: "Cool Tech Review",
-    src: "videos/video1.mp4",
-    thumb: "https://i.ibb.co/gLgDnsPF/images-30.jpg",
+    src: "https://rusoska.com/get_file/29/cc9ca645b17c99fac30188049=
+8b665f07aa97e31a3/150000/150779/150779.mp4",
+    thumb: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169lll/08/0f/9c/080f9cc54121e32ada966b102708af7d/080f9cc54121e32ada966b102708af7d.28.jpg",
     category: "Tech"
   },
   {
