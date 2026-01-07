@@ -12,7 +12,7 @@ const videos = [
   {
     id: 2,
     title: "Gaming Montage",
-    src: "videos/video2.mp4",
+    src: "https://r6.ssstik.top/ytdlp/18004721620000000101",
     thumb: "https://screenshots.yaeby.channel/contents/videos_screenshots/28000/28437/642x361/1.jpg",
     category: "Gaming"
   },
