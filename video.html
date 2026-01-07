@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Video</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <img src="logo.png" class="logo">
+  <h1 class="title">My Video Platform</h1>
+</header>
+
+<!-- VIDEO TITLE -->
+<h1 id="video-title" class="video-title"></h1>
+
+<!-- CUSTOM VIDEO PLAYER -->
+<div class="custom-player">
+
+  <video id="video"></video>
+
+  <div class="loader" id="loader"></div>
+
+  <div class="controls">
+    <button id="play-btn" class="play-btn">▶</button>
+
+    <div class="progress-container" id="progress-container">
+      <div class="progress" id="progress"></div>
+    </div>
+
+    <span id="time-display">0:00 / 0:00</span>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
