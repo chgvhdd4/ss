@@ -4,26 +4,186 @@
 const videos = [
   {
     id: 1,
-    title: "Cool Tech Review",
-    src: "https://rusoska.com/get_file/29/cc9ca645b17c99fac30188049=
-8b665f07aa97e31a3/150000/150779/150779.mp4",
-    thumb: "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169lll/08/0f/9c/080f9cc54121e32ada966b102708af7d/080f9cc54121e32ada966b102708af7d.28.jpg",
-    category: "Tech"
+    title: "vid01",
+    src: "https://uploadkon.ir/uploads/da5613_26VID-20260104-WA0062-1-.mp4",
+    thumb: "https:old.jpg",
+    category: "pussy"
   },
   {
     id: 2,
-    title: "Gaming Montage",
-    src: "https://r6.ssstik.top/ytdlp/18004721620000000101",
-    thumb: "https://screenshots.yaeby.channel/contents/videos_screenshots/28000/28437/642x361/1.jpg",
-    category: "Gaming"
+    title: "vid02",
+    src: "https://uploadkon.ir/uploads/825f14_26ttyyygfffff56re.mp4",
+    thumb: "old1.jpg",
+    category: "outdoor"
   },
   {
     id: 3,
-    title: "Funny Moments",
-    src: "videos/video3.mp4",
-    thumb: "https://fi1-ph.ypncdn.com/videos/202107/29/392076581/original/(m=eaSaaTbWx)(mh=w5ge2DWS-J_0CX6k)8.jpg",
-    category: "Comedy"
-  }
+    title: "vid03",
+    src: "https://uploadkon.ir/uploads/cc3314_26BellaSweet-recorded-media.mp4",
+    thumb: "old2.jpg",
+    category: "Anal"
+  },
+  {
+    id: 4,
+    title: "vid04",
+    src: "https://uploadkon.ir/uploads/eee814_261-5001578107266664389.mp4",
+    thumb: "https:old.jpg",
+    category: "Boobs"
+  },
+  {
+    id: 5,
+    title: "vid05",
+    src: "https://lv.sujcloud.com/files/scenes/1/10260/preview_3.mp4",
+    thumb: "old1.jpg",
+    category: "Cum"
+  },
+  {
+    id: 7,
+    title: "vid07",
+    src: "https://uploadkon.ir/uploads/a5d713_26VID-20260113-032815-950.mp4",
+    thumb: "https:old.jpg",
+    category: "Boobs"
+  },
+  {
+    id: 8,
+    title: "vid08",
+    src: "https://uploadkon.ir/uploads/af7313_26VID-20260102-WA0082.mp4",
+    thumb: "old1.jpg",
+    category: "pussy"
+  },
+  {
+    id: 9,
+    title: "vid09",
+    src: "https://uploadkon.ir/uploads/78c514_26F2YB9YJz-720p.mp4",
+    thumb: "old2.jpg",
+    category: "pussy"
+  },
+  {
+    id: 10,
+    title: "vid10",
+    src: "https://uploadkon.ir/uploads/5e1f13_26Asians-prefer-hardcore-anal-and-swallow.mp4",
+    thumb: "https:old.jpg",
+    category: "Hardcore"
+  },
+  {
+    id: 11,
+    title: "vid11",
+    src: "https://uploadkon.ir/uploads/b0ab13_26tUSHY.mp4",
+    thumb: "old1.jpg",
+    category: "Anal"
+  },
+  {
+    id: 12,
+    title: "vid12",
+    src: "https://uploadkon.ir/uploads/483214_26i75gogr5u.mp4",
+    thumb: "old2.jpg",
+    category: "other"
+  },
+  {
+    id: 19,
+    title: "vid13",
+    src: "https://uploadkon.ir/uploads/2de913_26VID-20251224-WA0031.mp4",
+    thumb: "https:old.jpg",
+    category: "Big Cock"
+  },
+  {
+    id: 25,
+    title: "vid14",
+    src: "https://uploadkon.ir/uploads/110413_26VID-20260114-024351-213.mp4",
+    thumb: "old2.jpg",
+    category: "Oiled"
+  },
+  {
+    id: 26,
+    title: "vid15",
+    src: "https://uploadkon.ir/uploads/be8714_262-5467737386374929188.mp4",
+    thumb: "old2.jpg",
+    category: "Oiled"
+  },
+  {
+    id: 27,
+    title: "vid16",
+    src: "vid",
+    thumb: "old2.jpg",
+    category: "Anal"
+  },
+  {
+    id: 28,
+    title: "vid17",
+    src: "vid2",
+    thumb: "old2.jpg",
+    category: "Japanese"
+  },
+  {
+    id: 29,
+    title: "vid18",
+    src: "vid3",
+    thumb: "https:old.jpg",
+    category: "Foot"
+  },
+  {
+    id: 35,
+    title: "vid19",
+    src: "vid4",
+    thumb: "old2.jpg",
+    category: "Boobs"
+  },
+  {
+    id: 36,
+    title: "vid20",
+    src: "vid5",
+    thumb: "old2.jpg",
+    category: "Hardcore"
+  },
+  {
+    id: 37,
+    title: "vid21",
+    src: "vid6",
+    thumb: "old2.jpg",
+    category: "other"
+  },
+  {
+    id: 38,
+    title: "vid22",
+    src: "vid7",
+    thumb: "old2.jpg",
+    category: "Milf"
+  },
+  {
+    id: 39,
+    title: "vid23",
+    src: "vid8",
+    thumb: "https:old.jpg",
+    category: "Squirting"
+    },
+  {
+    id: 40,
+    title: "vid",
+    src: "vid9",
+    thumb: "old2.jpg",
+    category: "Anal"
+  },
+  {
+    id: 41,
+    title: "vid21",
+    src: "vid10",
+    thumb: "old2.jpg",
+    category: "Cum"
+  },
+  {
+    id: 42,
+    title: "vid22",
+    src: "vid11",
+    thumb: "old2.jpg",
+    category: "Threesome"
+  },
+  {
+    id: 43,
+    title: "vid23",
+    src: "vid12",
+    thumb: "https:old.jpg",
+    category: "other"
+  },
 ];
 
 /* ---------------------------------------------------------
@@ -31,7 +191,7 @@ const videos = [
 --------------------------------------------------------- */
 if (document.getElementById("category-bar")) {
   const categoryBar = document.getElementById("category-bar");
-  const categories = ["All", ...new Set(videos.map(v => v.category))];
+  const categories = ["ALL", ...new Set(videos.map(v => v.category))];
 
   categories.forEach(cat => {
     categoryBar.innerHTML += `
@@ -43,14 +203,14 @@ if (document.getElementById("category-bar")) {
 /* ---------------------------------------------------------
    LOAD VIDEOS ON INDEX PAGE
 --------------------------------------------------------- */
-function loadVideos(filter = "All") {
+function loadVideos(filter = "ALL") {
   const list = document.getElementById("video-list");
   if (!list) return;
 
   list.innerHTML = "";
 
   videos
-    .filter(v => filter === "All" || v.category === filter)
+    .filter(v => filter === "ALL" || v.category === filter)
     .forEach(v => {
       list.innerHTML += `
         <div class="card" onclick="openVideo(${v.id})">
@@ -110,7 +270,7 @@ if (video) {
   playBtn.addEventListener("click", () => {
     if (video.paused) {
       video.play();
-      playBtn.textContent = "⏸";
+      playBtn.textContent = "⏸️";
     } else {
       video.pause();
       playBtn.textContent = "▶";
